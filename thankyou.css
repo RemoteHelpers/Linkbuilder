@@ -375,6 +375,15 @@
     }
 }
 
+@media screen and (max-width: 1366px) {
+    .wrapper {
+        padding: 0 25px;
+    }
+    .right {
+        width: 58%;
+    }
+}
+
 /* mobile */
 
 @media screen and (max-width: 1000px) {
