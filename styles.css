@@ -1075,7 +1075,7 @@ ul.menu-items li {
 
 @media screen and (max-width: 1366px) {
     .page-width {
-        max-width: 890px;
+        max-width: auto;
     }
 
         /* about section */
